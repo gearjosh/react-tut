@@ -1,5 +1,5 @@
 function liveTime() {
-  var greeting = React.createElement('h1', {}, 'Hello world!');
+  var greeting = React.createElement('h1', {}, 'Check the tiiiiiiime!');
   var clock = React.createElement('h2', {}, `It is ${new Date().toLocaleTimeString()}`);
   var app = React.createElement('div', {}, greeting, clock);
 
